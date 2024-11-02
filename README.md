@@ -73,6 +73,7 @@ Jump to a specific section:
 
 ## Quick Start
 
+
 ### Prompt Optimization
 
 Before running the model, please refer to [this guide](inference/convert_demo.py) to see how we use large models like
@@ -103,6 +104,10 @@ to [diffusers-torchao](https://github.com/sayakpaul/diffusers-torchao/). With Di
 is also possible leading to memory-efficient inference as well as speedup in some cases when compiled. A full list of
 memory and time benchmarks with various settings on A100 and H100 has been published
 at [diffusers-torchao](https://github.com/sayakpaul/diffusers-torchao).
+
+### Code helper
+
+(CogVide code helper)[https://chatgpt.com/g/g-jHgdbr0gH-2ggis-api-helper]
 
 ## Gallery
 
