@@ -107,7 +107,7 @@ at [diffusers-torchao](https://github.com/sayakpaul/diffusers-torchao).
 
 ### Code helper
 
-(CogVide code helper)[https://chatgpt.com/g/g-jHgdbr0gH-2ggis-api-helper]
+[CogVide code helper]([https://chatgpt.com/g/g-jHgdbr0gH-2ggis-api-helper)
 
 ## Gallery
 
