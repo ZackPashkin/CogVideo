@@ -60,6 +60,7 @@ Jump to a specific section:
 - [Quick Start](#Quick-Start)
     - [SAT](#sat)
     - [Diffusers](#Diffusers)
+    - [Code helper](#Code-helper)
 - [CogVideoX-2B Video Works](#cogvideox-2b-gallery)
 - [Introduction to the CogVideoX Model](#Model-Introduction)
 - [Full Project Structure](#project-structure)
@@ -107,7 +108,7 @@ at [diffusers-torchao](https://github.com/sayakpaul/diffusers-torchao).
 
 ### Code helper
 
-[CogVide code helper]([https://chatgpt.com/g/g-jHgdbr0gH-2ggis-api-helper)
+[CogVide code helper](https://chatgpt.com/g/g-jHgdbr0gH-2ggis-api-helper)
 
 ## Gallery
 
